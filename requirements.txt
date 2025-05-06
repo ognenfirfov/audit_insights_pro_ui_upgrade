@@ -1,0 +1,1 @@
+streamlit\nopenai>=1.1.0\nPyMuPDF\npandas\ntenacity\nfpdf\npython-docx\nmatplotlib
